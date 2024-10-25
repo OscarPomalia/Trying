@@ -12,7 +12,7 @@ void ingresaVector(int *p,int n){
         cin>>*(p+i);
         //cin >> p[i];
         //cin >> *(i + p);
-        //cin >> i[p]; = *(i + p)
+        //cin >> i[p]; //= *(i + p)
     } 
 }
 
