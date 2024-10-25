@@ -1,1 +1,0 @@
- cin.getline(texto, MAX_TEXTO);
