@@ -1,0 +1,9 @@
+Reporte de la Libreria: 
+Titulo: Cien a¤os de soledad
+Autor: Marquez
+Precio: 45
+Cantidad: 3
+Titulo: Guerra y Paz
+Autor: Tolstoi
+Precio: 56
+Cantidad: 2
